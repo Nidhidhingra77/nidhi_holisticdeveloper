@@ -1,2 +1,2 @@
-# nidhi_holisticdeveloper
+# nidhi_holistic developer
 A curriculum Developer
